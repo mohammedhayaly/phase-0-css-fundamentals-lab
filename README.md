@@ -40,7 +40,7 @@ to write styles for the entire site once, instead of repeating every `<style>`
 element on every page. A common workflow is to see developers work on CSS inside
 of the `<style>` tag until their styling is done. At that point, they move it to
 their external file and remove the `<style>` element from the HTML page. Feel
-free to try it out!
+free to try it out! 
 
 In `index.html`, provide a `<link>` tag which correctly sources the CSS file
 located in this directory. The `<link>` tag will link to our file with an `href`
